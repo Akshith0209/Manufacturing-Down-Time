@@ -12,4 +12,4 @@ The above KPI's track the operators involved in the production and the total dow
 Approximately 37 mins of down time is observed while each batch production 
 
 OPERATORS:
-Special focus on Mac would and focus on Charlie only for cola batch would help reduce downtime
+Special focus on Mac and focus on Charlie only for cola batch would help reduce downtime
