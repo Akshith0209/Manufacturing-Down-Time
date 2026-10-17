@@ -4,7 +4,8 @@ This is a dataset which talks about the industry that produces flavoured drinks 
 
 My analysis involves the downtime during the production of these drinks, so below is my analysis
 
-KPI's
+KPI's:
+
 Total Operators: 4
 Total Batches: 20
 Total downtime: 771
