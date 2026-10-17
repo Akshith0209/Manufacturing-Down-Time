@@ -1,18 +1,11 @@
-# Manufacturing-Down-Time
-Analysis of manufacturing down time of the flavoured drinks 
-
-This Analysis focuses completely on the machinery downtime occurred between 29th August 2024 and 3rd September 2024
-
-Executive Overview:
+Made an interactive dashboard on Excel with the Manufacturing downtime dataset
+This is a dataset which talks about the industry that produces flavoured drinks like Cola, Diet Cola, Lemon lime, Orange, Root Beer
+My analysis involves the downtime during the production of these drinks, so below is my analysis
+KPI's
 Total Operators: 4
-Total Batches: 38
-Total Downtime: 1388
-
-The above KPI's track the operators involved in the production and the total downtime occurred.
-Approximately 37 mins of down time is observed while each batch production 
-
-OPERATORS:
-Special focus on Mac and focus on Charlie only for cola batch would help reduce downtime
-
-PRODUCTS:
-Through the it's observed that operator error has caused severe downtime, machine adjustment stands the highest at 177 and batch coding error at 75 which points out the operator error and the rest for the machine failure and inventory which is NOT the operator error  
+Total Batches: 20
+Total downtime: 771
+Operator Observations:
+Operator Charlie has produced 11 batches with 228 downtime and has severe downtime of 345 only for cola. Downtime errors includes operator errors like Machine adjustment, calibration error, batch coding error
+Operator Mac has produced 8 batches and has downtime of 192 and has downtime in 4 flavours
+Conclusion: Placing Charlie on observation and Mac on special observation would reduce the downtime
