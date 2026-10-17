@@ -7,7 +7,9 @@ My analysis involves the downtime during the production of these drinks, so belo
 KPI's:
 
 Total Operators: 4
+
 Total Batches: 20
+
 Total downtime: 771
 
 Operator Observations:
